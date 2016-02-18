@@ -1,6 +1,6 @@
 $LOAD_PATH << '.'
 require "test011fileManager.rb"
-
+#master
 class FileManagerApp
 	def main
 		selected = -1
