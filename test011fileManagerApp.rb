@@ -1,6 +1,12 @@
 $LOAD_PATH << '.'
 require "test011fileManager.rb"
+<<<<<<< HEAD
 #master
+||||||| merged common ancestors
+
+=======
+#newBranch
+>>>>>>> newBranch
 class FileManagerApp
 	def main
 		selected = -1
