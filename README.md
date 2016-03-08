@@ -1,2 +1,5 @@
 # SimpleFileManager
 Ruby
+
+# Ide
+Rubymine
