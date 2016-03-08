@@ -39,7 +39,7 @@ class FileManagerApp
 				filename = gets.chop
 				print "\nDigite la linea que desea insertar en el archivo: "
 				str = gets.chop
-				FileManagerBetaV1.writeLine filename str
+				FileManagerBetaV1.writeLine filename, str
 				puts "Su archivo fue creado y su linea fue agregada a el."
 			when 3
 				print "\nDigite el nombre del archivo a mostrar: "
